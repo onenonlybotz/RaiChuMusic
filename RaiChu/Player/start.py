@@ -52,7 +52,7 @@ Feel free to add me to your groups.
                 ],
                 [
                     InlineKeyboardButton(
-                        "How to Use Me ❓", callback_data="cbhowtouse"
+                        "Developer", url=f"https://t.me/saikostar_xd"
                     ),
                   ],[
                     InlineKeyboardButton(
@@ -82,7 +82,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/AMANTYA1/RaiChu-MusicV2")
+                        " ʀᴇᴘᴏ ⚒️", url=f"https://t.me/TH3ONLYCHANNEL")
                 ]
             ]
         ),
